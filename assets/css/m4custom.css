@@ -1,0 +1,2040 @@
+.m4-background {
+	background-image: url('../images/Intersection1.png');
+}
+
+h2 {
+    font-size: 70px;
+    line-height: 86px;
+    color: #88B337;
+    text-align: center;
+}
+
+h4 {
+    font-size: 35px;
+    line-height: 45px;
+    color: #525252;
+}
+
+h5 {
+    font-size: 70px;
+    font-weight: 300;
+}
+
+h6 {
+    font-size: 100px;
+    font-weight: 600;
+    line-height: 90px;
+}
+
+p {
+    font-size: 20px;
+}
+
+strong {
+    font-weight: bold !important;
+}
+
+.m4-show-900 {
+    display: none;
+}
+
+.handbox img {
+    position: absolute;
+    left: 50px;
+    top: 35px;
+}
+
+.handbox {
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    background: #fff;
+    border-radius: 5px;
+    padding: 20px 30px 20px 190px;
+    position: relative;
+}
+
+.hand-box-size5 {
+    z-index: 5;
+    width: 600px;
+    margin-top: -331px;
+}
+
+.hand-box-size6 {
+    width: 600px;
+}
+
+.hand-box-size7 {
+    width: 600px;
+    margin-left: auto;
+}
+
+.hand-box-size8 {
+    width: 600px;
+}
+
+.hand-box-size9 {
+    width: 550px;
+}
+
+.hand-box-size10 {
+    width: 600px;
+}
+
+.hand-box-size11 {
+    width: 600px;
+    margin-left: auto;
+}
+
+.hand-box-size12 {
+    width: 600px;
+    margin-left: auto;
+}
+
+.hand-box-size13 {
+    width: 500px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.hand-box-size8_1 {
+    width: 650px;
+    margin: 0 auto;
+}
+
+/* animation */
+@-webkit-keyframes slideFromLeft2 {
+	from {
+        margin-left: -1000px;
+    }
+    to {
+        margin-left: 0;
+    }
+}
+
+@keyframes slideFromLeft2 {
+    from {
+        margin-left: -1000px;
+    }
+    to {
+        margin-left: 0;
+    }
+}
+
+.slideFromLeft2 {
+	animation-name: slideFromLeft2;
+	animation-duration: 1s;
+}
+
+@-webkit-keyframes slightslide {
+	from {
+        left: 20%;
+    }
+    to {
+        left: 25%;
+    }
+}
+
+@keyframes slightslide {
+    from {
+        left: 20%;
+    }
+    to {
+        left: 25%;
+    }
+}
+
+.slightslide {
+	animation-name: slightslide;
+	animation-duration: 1s;
+}
+
+@-webkit-keyframes slightslide2 {
+	from {
+        right: 20%;
+    }
+    to {
+        right: 15%;
+    }
+}
+
+@keyframes slightslide2 {
+    from {
+        right: 20%;
+    }
+    to {
+        right: 15%;
+    }
+}
+
+.slightslide2 {
+	animation-name: slightslide2;
+	animation-duration: 1s;
+}
+
+@-webkit-keyframes slightbottotop {
+	from {
+        top: 15%;
+        left: 3%;
+    }
+    to {
+        top: 7%;
+        left: 8%;
+    }
+}
+
+@keyframes slightbottotop {
+    from {
+        top: 15%;
+        left: 3%;
+    }
+    to {
+        top: 7%;
+        left: 8%;
+    }
+}
+
+.slightbottotop {
+	animation-name: slightbottotop;
+	animation-duration: 4s;
+}
+
+
+@-webkit-keyframes goTruck {
+	from {
+        right: -136px;
+    }
+    to {
+        right: -1000px;
+    }
+}
+
+@keyframes goTruck {
+    from {
+        right: -136px;
+    }
+    to {
+        right: -1000px;
+    }
+}
+
+.goTruck {
+	animation-name: goTruck;
+    animation-duration: 2s;
+}
+
+@-webkit-keyframes titlefromTop {
+	from {
+        top: -150px;
+    }
+    to {
+        top: 170px;
+    }
+}
+
+@keyframes titlefromTop {
+    from {
+        top: -150px;
+    }
+    to {
+        top: 170px;
+    }
+}
+
+.titlefromTop {
+	animation-name: titlefromTop;
+    animation-duration: 2s;
+}
+
+.m4-h4-wifdh {
+    width: 100%;
+}
+
+.m4-tree17 {
+    -webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.m4-tree18 {
+    -webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	-ms-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.m4-tree19 {
+    -webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	-ms-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.m4-tree20 {
+    -webkit-animation-delay: 2.5s;
+	-moz-animation-delay: 2.5s;
+	-ms-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.m4-wood-img1 {
+    -webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.m4-table {
+    -webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	-ms-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+/* Second */
+.m4-second-banner {
+    width: 50%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    position: relative;
+    margin-top: -110px;
+}
+
+.m4-boar-animal {
+    width: 300px;
+}
+
+.m4-second-text1 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.m4-second-banner h2 {
+    text-align: center;
+}
+
+.m4-second-banner > div p {
+    margin: 0;
+}
+
+.m4-second-sec-first-text {
+    width: 80%;
+    margin: auto;
+}
+
+.m4-second-sec-first-text p {
+    margin: 0;
+}
+
+.m4-second-sec-first-text h4 {
+    margin-bottom: 20px;
+}
+
+.m4-bg-green {
+    background: #477F3C;
+    padding: 100px 0;
+    height: 60em;
+    position: relative;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0 83%);
+}
+
+.m4-bg-orange {
+    background: #C68A03;
+    margin-top: -350px;
+    height: 100em;
+    padding: 100px 0;
+    position: relative;
+    clip-path: polygon(0% 0%, 100% 16%, 100% 100%, 0 100%);
+}
+
+.m4-second-bg-green-text,
+.m4-second-bg-orange-text,
+.m4-second-bg-orange-text2{
+    width: 80%;
+    margin: auto;
+}
+
+.m4-second-bg-orange-text2 {
+    margin-top: 2%;
+}
+
+.m4-second-bg-orange-text {
+    margin-top: 23%;
+}
+
+.m4-second-bg-orange-text div {
+    width: 38%;
+}
+
+.m4-second-bg-orange-text2 div {
+    width: 48%;
+    margin-left: auto;
+}
+
+.m4-second-bg-green-text div {
+    width: 38%;
+    margin-left: auto;
+}
+
+.m4-second-bg-green-text div h4,
+.m4-second-bg-green-text div p,
+.m4-second-bg-orange-text div h4,
+.m4-second-bg-orange-text div p,
+.m4-second-bg-orange-text2 h4,
+.m4-second-bg-orange-text2 p {
+    color: #fff;
+}
+
+.m4-second-bg {
+    margin-top: 16%;
+}
+
+.m4-tree1 {
+    margin-left: 8%;
+    margin-bottom: -10px;
+}
+
+.m4-tree2 {
+    position: absolute;
+    left: 29%;
+    top: 26%;
+}
+
+.m4-terre-div {
+    margin-bottom: -25%;
+    position: relative;
+    z-index: 5;
+}
+
+.m4-terre-div img {
+    width: 37%;
+}
+
+.m4-boar {
+    position: absolute;
+    right: 20%;
+    top: 20%;
+}
+
+.m4-leaves {
+    margin-top: 45%;
+}
+
+.m4-tree3_01 {
+    position: absolute;
+    top: 550px;
+    right: -89px;
+    width: 11%;
+}
+
+.m4-deer {
+    position: absolute;
+    left: 14%;
+    top: 63%;
+}
+
+/* Third Section */
+
+.m4-third-banner {
+    width: 50%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    position: relative;
+    margin-top: -150px;
+}
+
+.m4-river {
+    background-image: url('../images/river.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100em;
+    width: 100%;
+    position: relative;
+}
+
+.m4-river-top-text {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.m4-river-top-text div h2 {
+    color: #525252;
+    text-align: left;
+}
+
+.m4-third-text1 {
+    left: 10%;
+    position: absolute;
+    bottom: 300px;
+}
+
+.m4-river-top-text div {
+    width: 50%;
+}
+
+.m4-usa {
+    position: absolute;
+    top: 100px;
+    left: 10%;
+}
+
+.m4-fox {
+    position: absolute;
+    top: 40%;
+    left: 26%;
+}
+
+.m4-racoon {
+    position: absolute;
+    top: 42%;
+    right: 11%;
+}
+
+.m4-bird {
+    position: absolute;
+    bottom: 18%;
+    left: 56%;
+}
+
+.m4-saviez-2 {
+    width: 35%;
+    position: absolute;
+    left: 6%;
+    bottom: 17%;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+}
+
+.m4-saviez-2 div h4 {
+    color: #88B337;
+}
+
+/* Fifth Section */
+/* .m3-fifth-section .m2-quiz-wrapper {
+	background: url('../../images/module3/quiz-bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+    padding: 350px 0;
+    margin-top: -6%;
+} */
+
+#happy-img,
+#sad-img {
+	position: absolute;
+	left: 3rem;
+	top: 50%;
+    transform: translateY(-50%);
+}
+
+.quiz-start-title h3 {
+	font-weight: 300;
+}
+
+.identicator-active {
+	background: #88B337 !important;
+	color: #fff;
+}
+
+.identicator-active2 {
+	background: #88B337 !important;
+	color: #fff;
+}
+
+.quiz-start-title h4 {
+	text-align: center;
+}
+
+.set_of_choices p {
+	color: #525252;
+    text-align: center;
+	font-size: 25px;
+	margin:0;
+}
+
+.set_of_choices {
+	margin-bottom: 50px;
+}
+
+.set_of_choices > div {
+	width: 100%;
+	background: #fff;
+	padding: 30px 120px;
+	margin-top: 30px;
+	position: relative;
+	cursor: pointer;
+}
+
+.the_question p {
+	font-size: 30px;
+    color: #fff;
+}
+
+.quiz-to-design {
+	width: 35%;
+	margin: 0 auto;
+}
+
+.question_set_identicators {
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
+.set-q-identicator {
+	background-color: #fff;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 18px 0;
+}
+
+.set-q-identicator strong {
+    font-size: 20px;
+}
+
+.question_set_identicators > div {
+	margin: 0 10px;
+}
+
+/* Sixth Section */
+.m4-sixth-banner {
+    width: 40%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    margin-top: -50px;
+    text-align: center;
+}
+
+.m4-cycle {
+    position: absolute;
+    top: -480px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+.m4-text-title {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding-top: 9%;
+}
+
+.m4-text-title div:first-child {
+    width: 60%;
+}
+
+.m4-sixth-text1 {
+    position: absolute;
+    bottom: 200px;
+    width: 80%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.m4-text-title div:first-child h4 {
+    margin-top: 10%;
+}
+
+.m4-text-title div:nth-child(2) {
+    width: 40%;
+}
+
+.m4-cloud {
+    position: absolute;
+    top: 9%;
+    left: 31%;
+}
+
+.m4-arrow-up {
+    position: absolute;
+    right: 12%;
+}
+
+.m4-arrow-down {
+    position: absolute;
+    left: 14%;
+}
+
+.m4-underground {
+    background: url('../images/underground.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 84em;
+    margin-top: 50%;
+    position: relative;
+}
+
+.m4-tree3 {
+    position: absolute;
+    top: -30.6%;
+    left: 5%;
+    width: 11%;
+}
+
+.m4-tree3_1 {
+    position: absolute;
+    top: -498px;
+    left: 20%;
+    width: 250px;
+    z-index: 2;
+}
+
+.m4-mount {
+    position: absolute;
+    top: -11%;
+    left: 9%;
+    z-index: 1;
+}
+
+.m4-factory {
+    position: absolute;
+    right: 500px;
+    z-index: 1;
+    top: -952px;
+    width: 350px;
+}
+
+.m4-factory2 {
+    position: absolute;
+    right: 263px;
+    z-index: 5;
+    top: -349px;
+    width: 850px;
+}
+
+.m4-capsule {
+    position: absolute;
+    right: 5%;
+    top: -44%;
+    z-index: 0;
+    width: 14%;
+}
+
+.m4-underg-creature {
+    position: absolute;
+    top: 6%;
+    display: flex;
+    left: 14%;
+}
+
+.m4-underg-creature div:first-child {
+    width: 19%;
+}
+
+.m4-underg-creature div:first-child img {
+    display: block;
+    margin-top: 48px;
+}
+
+.m4-underg-creature div:nth-child(2) {
+    width: 47%;
+}
+
+.m4-underg-creature div:nth-child(2) p {
+    margin-top: 70px;
+    color: #fff;
+}
+
+.m4-underg-text-bottom {
+    position: absolute;
+    bottom: 18%;
+    width: 35%;
+    left: 18%;
+}
+
+.m4-underg-text-bottom p,
+.m4-underg-text-bottom h4 {
+    color: #fff;
+}
+
+.m4-saviez-3 {
+    width: 35%;
+    position: absolute;
+    right: 6%;
+    bottom: 17%;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+}
+
+.m4-oxygen, 
+.m4-cloud-2,
+.m4-carbon-oxygen {
+    position: absolute;
+}
+
+.m4-oxygen {
+    top: 25px;
+    width: 190px;
+    left: 26%;
+
+    -webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.m4-cloud-2 {
+    top: -52%;
+    left: 38%;
+    width: 400px;
+}
+
+.m4-carbon-oxygen {
+    width: 300px;
+    top: -301px;
+    right: 23%;
+
+    -webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	-ms-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.m4-le-carbone {
+    position: absolute;
+    right: 22%;
+    top: 34%;
+    color: #fff;
+}
+
+.m4-arrow-white {
+    position: absolute;
+    left: 38%;
+    top: 4%;
+}
+
+.m4-dioxyde {
+    margin-left: 15%;
+}
+
+.m4-tree-bg {
+    background: url('../images/tree-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 58em;
+    margin-top: 18%;
+    position: relative;
+}
+
+.m4-tree-div {
+    width: 100%;
+    text-align: center;
+}
+
+.m4-tree6 {
+    position: absolute;
+    top: 19.6%;
+    right: 18%;
+}
+
+.m4-tree5 {
+    position: absolute;
+    top: 11.5%;
+    right: 2%;
+}
+
+.m4-tree-bg-text {
+    width: 35%;
+    margin-left: 11%;
+    margin-top: 5%;
+    padding-top: 500px;
+}
+
+.m4-tree-bg-text h4,
+.m4-tree-bg-text p {
+    color: #fff;
+}
+
+.m4-bird2 {
+    position: absolute;
+    right: 16%;
+    bottom: 29%;
+}
+
+.m4-bird3 {
+    position: absolute;
+    right: 14%;
+    bottom: 31%;
+}
+
+.m4-sun {
+    margin-left: 11%;
+    margin-top: 4%;
+}
+
+.m4-leaf1 {
+    position: absolute;
+    top: -14%;
+    left: 21%;
+}
+
+.m4-arrow-sun {
+    position: absolute;
+    top: -32%;
+    left: 14%;
+}
+
+.m4-arrow-btm {
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+
+.m4-cloud-1 {
+    position: absolute;
+    top: 0;
+    left: 23%;
+}
+
+.m4-leaf3 {
+    position: absolute;
+    top: 27px;
+    left: 34%;
+}
+
+.m4-leaf2 {
+    position: absolute;
+    top: -22%;
+    left: 32%;
+}
+
+.m4-cloud-3 {
+    position: absolute;
+    right: 28%;
+    top: -35%;
+}
+
+.m4-cloud-4 {
+    position: absolute;
+    right: 26%;
+    top: -16%;
+}
+
+/* Seventh Section */
+.m4-seventh-banner{
+    padding: 30px 90px;
+    background: #fff;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: -50px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    text-align: center;
+    z-index: 5;
+}
+
+.m4-underg-root {
+    background: url('../images/underg-root.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 90em;
+    margin-top: 32%;
+    position: relative;
+}
+
+.m4-seventh-ftext {
+    padding-top: 7%;
+}
+
+.m4-seventh-ftext div {
+    width: 30%;
+    margin-left: 10%;
+}
+
+.m4-seventh-text1 {
+    width: 80%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+    bottom: 200px;
+}
+
+.m4-seventh-section {
+    position: relative;
+}
+
+.m4-cloud-5 {
+    position: absolute;
+    top: 205px;
+    left: 25%;
+    width:45%;
+}
+
+.m4-arr-strt-down {
+    position: absolute;
+    left: 51%;
+    top: 30%;
+}
+
+.m4-tree7 {
+    position: absolute;
+    right: 3%;
+    top: -7%;
+    z-index: 1;
+    width: 800px;
+}
+
+.m4-tree8 {
+    position: absolute;
+    right: 28%;
+    top: 5%;
+    z-index: 0;
+}
+
+.m4-OiseauVer {
+    width: 10%;
+    position: absolute;
+    top: 27%;
+    left: 31%;
+}
+
+.m4-arrow-n {
+    position: absolute;
+    left: 31%;
+    top: 44.5%;
+    z-index: 1;
+}
+
+.m4-arr-no-down {
+    position: absolute;
+    top: 44%;
+    left: 33%;
+}
+
+.m4-arr-no-up {
+    position: absolute;
+    top: 42%;
+    right: 23%;
+    z-index: 3;
+
+}
+
+.m4-arr-n-up {
+    position: absolute;
+    right: 25%;
+    z-index: 2;
+}
+
+.m4-seventh-stext {
+    width: 16%;
+    position: absolute;
+    right: 10%;
+    top: 18%;
+}
+
+.m4-seventh-ttext {
+    position: absolute;
+    left: 40%;
+    top: 14%;
+}
+
+.m4-seventh-fotext {
+    width: 17%;
+    text-align: end;
+    position: absolute;
+    left: 12%;
+    top: 24%;
+}
+
+.m4-saviez-4 {
+    width: 29%;
+    position: absolute;
+    left: 6%;
+    bottom: 11%;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+}
+
+.m4-seventh-fitext {
+    width: 21%;
+    position: absolute;
+    bottom: 27%;
+    right: 10%;
+}
+
+.m4-seventh-fitext p {
+    color: #fff;
+}
+
+/* Eighth Section */
+
+.m4-eighth-section {
+    position: relative;
+}
+
+.m4-eight-ftext {
+    width: 80%;
+    padding-top: 50px;
+    margin: auto;
+}
+
+.m4-eight-ftext h4 {
+    margin-bottom: 50px;
+}
+
+.m4-eighth-text1{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 80%;
+    margin: 0 auto;
+    bottom: 200px;
+}
+
+.m4-eighth-title {
+    width: 50%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    position: relative;
+    margin-top: -120px;
+    text-align: center;
+}
+
+.m4-eight-ftext div {
+    width: 50%;
+    margin-left: auto;
+}
+
+.m4-cloud-6 {
+    position: absolute;
+    top: 430px;
+    left: 10%;
+    width: 32%;
+}
+
+.m4-plain-bg {
+    background: url('../images/plain.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50em;
+    margin-top: 35%;
+    position: relative;
+}
+
+.m4-stone1 {
+    position: absolute;
+    top: 0;
+    left: 15%;
+    z-index: 0;
+}
+
+.m4-stone2 {
+    position: absolute;
+    right: 7%;
+    top: 10px;
+}
+
+.m4-tree9 {
+    position: absolute;
+    top: -62%;
+    left: 4%;
+}
+
+.m4-saviez-5 {
+    width: 29%;
+    position: absolute;
+    left: 7%;
+    bottom: 20%;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+}
+
+.m4-eight-stext {
+    display: flex;
+    width: 87%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.m4-eight-stext .m4-sflex {
+    padding-top: 9%;
+    padding-left: 200px;
+}
+
+.m4-sflex0 {
+    width: 50%;
+}
+
+.m4-sflex {
+    width: 50%;
+}
+
+.m4-wood {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.m4-ground {
+    background: url('../images/ground.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: auto;
+    width: 100%;
+    height: 20em;
+    margin-top: 35%;
+    position: relative;
+}
+
+.m4-table {
+    position: absolute;
+    bottom: 70%;
+    right: 10%;
+}
+
+.m4-tree10 {
+    position: absolute;
+    bottom: 74%;
+    left: 12%;
+}
+
+.m4-upright {
+    position: absolute;
+    left: 25%;
+}
+
+.m4-leftdown {
+    position: absolute;
+    right: 27%;
+}
+
+.m4-saviez-6 {
+    width: 80% !important;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+    margin-left: auto;
+}
+
+.m4-saviez-6 div:first-child {
+    width: 25%;
+}
+
+.m4-saviez-6 div:nth-child(2) {
+    width: 75%;
+}
+
+.m4-saviez-6 h4,
+.m4-saviez-5 h4,
+.m4-saviez-4 h4 {
+    color: #88B337;
+}
+
+/* Ninth Section */
+.m4-ninth-banner {
+    width: 50%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    margin-top: -100px;
+}
+
+.m4-ninth-section {
+    position: relative;
+}
+
+.m4-ninth-ftext {
+    width: 36%;
+    margin-left: 12%;
+}
+
+.m4-park {
+    width: 100%;
+    background: url('../images/park.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 122em;
+    position: relative;
+    margin-top: -15%;
+}
+
+.m4-tree11-1 {
+    position: absolute;
+    top: 24%;
+    left: 7%;
+}
+
+.m4-tree11-2 {
+    position: absolute;
+    right: 6%;
+    top: 18%;
+}
+
+.m4-tree12 {
+    position: absolute;
+    right: 15%;
+    top: 40%;
+}
+
+.m4-boar2 {
+    position: absolute;
+    right: 30%;
+    top: 25%;
+}
+
+.m4-leave2 {
+    position: absolute;
+    right: 29%;
+    top: 31%;
+}
+
+.m4-family {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+.m4-fox2 {
+    position: absolute;
+    right: 44%;
+    top: 46%;
+}
+
+.m4-ninth-stext {
+    width: 38%;
+    position: absolute;
+    bottom: 25%;
+    left: 7%;
+}
+
+.m4-ninth-stext h4,
+.m4-ninth-stext p {
+    color: #fff;
+}
+
+.m4-sitting {
+    position: absolute;
+    bottom: 12%;
+    left: 11%;
+}
+
+.m4-skip {
+    position: absolute;
+    bottom: 12%;
+    left: 40%;
+}
+
+.m4-Famille {
+    width: 17%;
+    right: 28%;
+    position: absolute;
+    bottom: 25%;
+}
+
+.m4-ninth-ttext {
+    position: absolute;
+    bottom: 4%;
+    width: 29%;
+    right: 10%;
+}
+
+.m4-ninth-ttext h4,
+.m4-ninth-ttext p {
+    color: #fff;
+}
+
+.m4-lines {
+    width: 100%;
+    background: url('../images/lines.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 280em;
+    position: relative;
+}
+
+.m4-ninth-fotext {
+    width: 42%;
+    margin-left: 7%;
+    padding-top: 10%;
+    position: relative;
+}
+
+.m4-ninth-fotext-title {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 170px;
+}
+
+.m4-ninth-fotext h3 {
+    font-size: 60px;
+    color: #525252;
+    line-height: 70px;
+    font-weight: 600;
+}
+
+.m4-ninth-fotext h3:nth-child(2),
+.m4-ninth-fotext h4{
+    margin-left: 4%;
+}
+
+.m4-ninth-fotext h4 {
+    font-weight: 600;
+    padding-top: 154px;
+}
+
+.m4-ninth-fitext {
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.m4-ninth-fitext h3{
+    font-size: 50px;
+}
+
+.m4-ninth-sitext {
+    width: 37%;
+    margin-top: 8%;
+    margin-left: 45%;
+}
+
+.m4-sniper {
+    margin-top: 176px;
+    margin-left: 15%;
+}
+
+.m4-ninth-setext {
+    width: 13%;
+    margin-left: 60%;
+    margin-top: -8%;
+}
+
+.m4-ninth-eitext {
+    width: 14%;
+    margin-left: 38%;
+    margin-top: 11%;
+    text-align: end;
+}
+
+.m4-two-child {
+    position: absolute;
+    right: 26%;
+    margin-top: 10.6%;
+}
+
+.m4-ninth-nitext {
+    width: 14%;
+    text-align: end;
+    margin-left: 38%;
+    margin-top: 12%;
+}
+
+.m4-businessman {
+    position: absolute;
+    width: 14%;
+    margin-left: 21%;
+    margin-top: 3.5%;
+}
+
+.m4-ninth-tetext {
+    width: 16%;
+    margin-left: 75%;
+    margin-top: 10%;
+}
+
+.m4-jogger {
+    position: absolute;
+    width: 16%;
+    right: 26%;
+}
+
+.m4-ninth-eltext {
+    width: 15%;
+    margin-top: 24%;
+    margin-left: 39%;
+}
+
+.m4-ado {
+    position: absolute;
+    width: 13%;
+    margin-top: 9%;
+    margin-left: 25%;
+}
+
+.m4-ninth-twtext {
+    position: absolute;
+    bottom: 16%;
+    right: 27%;
+}
+
+.m4-ninth-thtext {
+    width: 15%;
+    position: absolute;
+    bottom: 10%;
+    left: 9%;
+}
+
+.m4-with-horse {
+    position: absolute;
+    right: 9%;
+    bottom: 5.5%;
+}
+
+.m4-family2 {
+    position: absolute;
+    bottom: 5%;
+    left: 23%;
+}
+
+/* Tenth Section */
+
+.m4-tenth-banner {
+    width: 40%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    margin-top: -110px;
+    text-align: center;
+}
+
+.m4-tenth-stext p {
+    margin-bottom: 0;
+}
+
+.m4-tenth-section {
+    position: relative;
+}
+
+.m4-tenth-ftext {
+    width: 36%;
+    padding-top: 10%;
+    margin-left: 9%;
+}
+
+.m4-pose8 {
+    position: absolute;
+    right: 15%;
+    top: 7%;
+}
+
+.m4-pose10 {
+    position: absolute;
+    right: 30%;
+    top: 12%;
+}
+
+.m4-forest {
+    background: url('../images/forest.png');
+    background-repeat: no-repeat;
+    height: 128em;
+    position: relative;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+.m4-racoon2 {
+    position: absolute;
+    bottom: 22%;
+    left: 16%;
+    width: 58px;
+}
+
+.m4-bird4 {
+    position: absolute;
+    bottom: 12%;
+    left: 43%;
+    width: 100px;
+}
+
+.m4-tenth-stext {
+    position: absolute;
+    bottom: 12%;
+    right: 10%;
+    width: 600px;
+}
+
+.m4-tenth-stext p {
+    color: #fff;
+}
+
+/* Eleventh Section */
+.m4-eleventh-banner {
+    width: 40%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    margin-top: -50px;
+    text-align: center;
+}
+
+.m4-eleventh-section {
+    position: relative;
+}
+
+.m4-eleventh-ftext {
+    width: 80%;
+    margin: auto;
+    padding-top: 17%;
+}
+
+.m4-eleventh-ftext div {
+    width: 44%;
+    margin-left: auto;
+}
+
+.m4-sun2 {
+    position: absolute;
+    left: 8%;
+    top: 7%;
+}
+
+.m4-plain-grn-bg {
+    background: url('../images/plain-grn-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 104em;
+    position: relative;
+    margin-top: 250px;
+}
+
+.m4-family3 {
+    position: absolute;
+    right: 16%;
+    top: 90px;
+}
+
+.m4-sign {
+    position: absolute;
+    right: 40%;
+    top: 22px;
+}
+
+.m4-tree14 {
+    position: absolute;
+    right: 14%;
+    top: 220px;
+}
+
+.m4-tree13 {
+    position: absolute;
+    left: 10%;
+    top: -125px;
+}
+
+.m4-eleventh-setext {
+    position: absolute;
+    width: 34%;
+    top: 35%;
+    left: 15%;
+}
+
+.m4-eleventh-setext h4,
+.m4-eleventh-setext p {
+    color: #fff;
+}
+
+.m4-saviez-7 {
+    width: 35%;
+    position: absolute;
+    right: 6%;
+    bottom: 21%;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+}
+
+.m4-saviez-7 h4 {
+    color: #88B337;
+}
+
+.m4-eleventh-text1 {
+    width: 80%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+    bottom: 300px;
+}
+
+/* Twelve Section */
+.m4-twelfth-banner {
+    width: 50%;
+    margin: 50px auto;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 30px 90px;
+    background: #fff;
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    margin-top: -175px;
+}
+
+.m4-twelve-section {
+    /* margin-top: -16%; */
+}
+
+.m4-twelve-ftext {
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.m4-twelve-ftext div {
+    width: 53%;
+    margin-left: auto;
+}
+
+.m4-twelfth-text1 {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 300px;
+}
+
+.m4-plain-brn-bg {
+    background: url('../images/plain-brn-bg.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 130em;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.m4-twelve-stext {
+    width: 20%;
+    position: absolute;
+    right: 9%;
+    top: 13%;
+}
+
+.m4-twelve-stext {
+    color: #fff;
+}
+
+.m4-scieur {
+    width: 35%;
+    position: absolute;
+    bottom: 18%;
+    left: 12%;
+}
+
+.m4-wood3 {
+    position: absolute;
+    right: 24%;
+    top: 35%;
+}
+
+.m4-wood2 {
+    position: absolute;
+    right: 32%;
+    top: 16%;
+}
+
+.m4-tree15 {
+    position: absolute;
+    left: 15%;
+    top: 6%;
+}
+
+.m4-twelve-thtext {
+    width: 25%;
+    position: absolute;
+    left: 18%;
+    top: 35%;
+}
+
+.m4-twelve-thtext * {
+    color: #fff;
+}
+
+.m4-number {
+    font-size: 100px;
+    line-height: 45px;
+}
+
+.m4-twelve-fotext {
+    position: absolute;
+    right: 9%;
+    bottom: 21%;
+    width: 28%;
+}
+
+.m4-twelve-fotext p {
+    color: #fff;
+}
+
+.m4-twelve-fitext {
+    margin-left: 19%;
+}
+
+.m4-slope-bg {
+    background: url('../images/slope-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 172em;
+    position: relative;
+    background-position: right;
+    background-size: cover;
+}
+
+.m4-tree20 {
+    position: absolute;
+    right: -10px;
+    top: 28%;
+}
+
+.m4-tree19 {
+    position: absolute;
+    right: 20%;
+    top: 11%;
+}
+
+.m4-tree18 {
+    position: absolute;
+    left: 45%;
+    top: 7%;
+}
+
+.m4-tree17 {
+    position: absolute;
+    left: 24%;
+    top: 3%;
+}
+
+.m4-tree16 {
+    position: absolute;
+    top: -1%;
+    left: 4%;
+}
+
+.m4-twelve-sitext {
+    width: 29%;
+    padding-top: 1000px;
+    margin-left: 55%;
+}
+
+.m4-twelve-sitext p {
+    color: #fff;
+}
+
+.m4-wood4 {
+    position: absolute;
+    top: 29%;
+    left: 12%;
+}
+
+.m4-log-truck {
+    position: absolute;
+    /* right: -136px; */
+    bottom: 617px;
+}
+.m4-twelve-setext {
+    width: 35%;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.m4-twelve-setext p {
+    color: #fff;
+}
+
+.m4-saviez-8 {
+    width: 35%;
+    position: absolute;
+    right: 6%;
+    bottom: 11%;
+    background: #fff;
+    z-index: 5;
+    padding: 40px;
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    display: flex;
+}
+
+
+/* imgs */
+.m3-hands {
+    position: absolute;
+    left: 50px;
+    top: 35px;
+}
+
+.m3-15-img1,
+.m3-15-img2,
+.m3-15-img3,
+.m3-15-img4,
+.m3-15-img5  {
+    position: absolute;
+}
+
+.m3-15-img1 {
+    top: 265px;
+    width: 100px;
+    left: 5%;
+}
+
+.m3-15-img2 {
+    top: 230px;
+    width: 170px;
+    right: 16%;
+}
+
+.m3-15-img3 {
+    top: 700px;
+    width: 200px;
+    left: 42%;
+}
+
+.m3-15-img4 {
+    bottom: 970px;
+    width: 850px;
+    right: -100px;
+}
+
+.m3-15-img5 {
+    bottom: 500px;
+    width: 400px;
+    left: 10%;
+}
+
+
+/* text */
+
+.m3-seventeenth-text1 * {
+    color: #fff;
+}
+
+.m3-seventeenth-text1 p{
+    margin: 0;
+}
+
+.m3-seventeenth-text1 {
+    padding-top: 400px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.m3-seventeenth-text1 > div {
+    width: 50%;
+    margin-left: auto;
+}
+
+.m3-seventeenth-text2 {
+    padding: 200px 0;   
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.m3-seventeenth-text2 > * {
+    color: #fff;
+}
+
+/* Last Section */
+.to_next_module {
+	background-image: url('../images/next-module.png');
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    padding: 100px 50px;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.arrow-down-tonext {
+	text-align: center;
+	margin-top: -80px;
+}
+
+.to_next_module > div > * {
+	color: #fff;
+}
+
+.to_next_module p {
+	font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 3rem;
+}
+
+.to_next_module h1 {
+	font-size: 54px;
+    line-height: 77px;
+}
+
+.to_next_module p span {
+	color: #88B337;
+    border-bottom-width: 100%;
+    position: relative;
+}
+
+.to_next_module > div {
+	padding: 50px 60px;
+}
+
+.to_next_module p span:before {
+    content: "";
+    position: absolute;
+    left: -50px;
+    bottom: -10px;
+    height: 1px;
+    width: 100px;
+    border-bottom: 3px solid #fff;
+}
